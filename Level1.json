@@ -1,0 +1,2279 @@
+{
+  "rooms": {
+    "room_1_1": {
+      "doors": [
+        {
+          "name": "hallway_1_1",
+          "x": 509,
+          "y": 360,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": [
+        {
+          "name": "sword",
+          "coords": [542, 452],
+          "message_alt": "Your first weapon. It won't stay for long, but it will prove to be quite useful."
+        }
+      ]
+    },
+    "room_1_2": {
+      "doors": [
+        {
+          "name": "hallway_1_1",
+          "x": 570,
+          "y": 540,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": [
+        {
+          "name": "coin",
+          "coords": [517,246],
+          "message_alt": ""
+        },
+        {
+          "name": "coin",
+          "coords": [823,263],
+          "message_alt": "I wonder who left these here?"
+        }
+      ]
+    },
+    "room_1_3": {
+      "doors": [
+        {
+          "name": "hallway_1_1",
+          "x": 647,
+          "y": 550,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [
+        {
+          "name": "goblin",
+          "coords": [642, 387],
+          "message_alt": ""
+        }
+      ],
+      "items": []
+    },
+    "room_1_4": {
+      "doors": [
+        {
+          "name": "hallway_1_1",
+          "x": 646,
+          "y": 227,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [
+        {
+          "name": "rat",
+          "coords": [647,319],
+          "message_alt": ""
+        }
+      ],
+      "items": [
+        {
+          "name": "warp_scroll",
+          "coords": [531,470],
+          "message_alt": "Allows you to warp back to the starting room. Consumed on use."
+        }
+      ]
+    },
+    "room_2_1": {
+      "doors": [
+        {
+          "name": "hallway_2_2",
+          "x": 792,
+          "y": 276,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_2_1",
+          "x": 642,
+          "y": 518,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_2_2": {
+      "doors": [
+        {
+          "name": "hallway_2_4",
+          "x": 836,
+          "y": 287,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_2_2",
+          "x": 477,
+          "y": 420,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_2_3": {
+      "doors": [
+        {
+          "name": "hallway_2_2",
+          "x": 557,
+          "y": 334,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_2_4": {
+      "doors": [
+        {
+          "name": "hallway_2_2",
+          "x": 637,
+          "y": 124,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_2_5",
+          "x": 508,
+          "y": 591,
+          "message": "",
+          "coords": [
+            520,
+            160
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_2_5",
+          "x": 777,
+          "y": 591,
+          "message": "",
+          "coords": [
+            747,
+            160
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_2_5": {
+      "doors": [
+        {
+          "name": "room_2_4",
+          "x": 520,
+          "y": 160,
+          "message": "",
+          "coords": [
+            508,
+            591
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_2_4",
+          "x": 747,
+          "y": 160,
+          "message": "",
+          "coords": [
+            777,
+            591
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": [
+        {
+          "name": "scimitar",
+          "coords": [632,464],
+          "message_alt": ""
+        }
+      ]
+    },
+    "room_2_6": {
+      "doors": [
+        {
+          "name": "hallway_2_3",
+          "x": 509,
+          "y": 405,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": [
+        {
+          "name": "chainmail",
+          "coords": [672,409],
+          "message-alt": ""
+        }
+      ]
+    },
+    "room_3_1": {
+      "doors": [
+        {
+          "name": "hallway_3_2",
+          "x": 678,
+          "y": 575,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_3_2": {
+      "doors": [
+        {
+          "name": "hallway_3_4",
+          "x": 568,
+          "y": 157,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_3_5",
+          "x": 413,
+          "y": 379,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": [
+        {
+          "name": "katana",
+          "coords": [603,552],
+          "message_alt": ""
+        }
+      ]
+    },
+    "room_4_1": {
+      "doors": [
+        {
+          "name": "4-way_1",
+          "x": 690,
+          "y": 207,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_4_1",
+          "x": 486,
+          "y": 274,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_4_3",
+          "x": 486,
+          "y": 430,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_5_5",
+          "x": 601,
+          "y": 514,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_5_1",
+          "x": 841,
+          "y": 324,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_4_2": {
+      "doors": [
+        {
+          "name": "4-way_4",
+          "x": 824,
+          "y": 221,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_4_7",
+          "x": 660,
+          "y": 564,
+          "message": "",
+          "coords": [
+            671,
+            156
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_4_3": {
+      "doors": [
+        {
+          "name": "4-way_4",
+          "x": 624,
+          "y": 495,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": [
+        {
+          "name": "plate_mail",
+          "coords": [631,327],
+          "message_alt": ""
+        }
+      ]
+    },
+    "room_4_4": {
+      "doors": [
+        {
+          "name": "room_4_5",
+          "x": 674,
+          "y": 155,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_4_4",
+          "x": 536,
+          "y": 481,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_4_5": {
+      "doors": [
+        {
+          "name": "room_4_6",
+          "x": 842,
+          "y": 328,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_4_4",
+          "x": 520,
+          "y": 460,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_4_6": {
+      "doors": [
+        {
+          "name": "room_4_5",
+          "x": 461,
+          "y": 330,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_4_7",
+          "x": 788,
+          "y": 460,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_4_7": {
+      "doors": [
+        {
+          "name": "room_4_6",
+          "x": 671,
+          "y": 156,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_4_4",
+          "x": 536,
+          "y": 482,
+          "message": "",
+          "coords": [
+            884,
+            531
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_4_8": {
+      "doors": [
+        {
+          "name": "hallway_4_5",
+          "x": 773,
+          "y": 351,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_4_9",
+          "x": 637,
+          "y": 501,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_4_9": {
+      "doors": [
+        {
+          "name": "room_4_10",
+          "x": 845,
+          "y": 393,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_4_8",
+          "x": 518,
+          "y": 256,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_4_7",
+          "x": 518,
+          "y": 463,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_4_6",
+          "x": 653,
+          "y": 463,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_4_10": {
+      "doors": [
+        {
+          "name": "hallway_4_5",
+          "x": 755,
+          "y": 228,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_4_9",
+          "x": 470,
+          "y": 291,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_4_12",
+          "x": 371,
+          "y": 508,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_1_1",
+          "x": 856,
+          "y": 582,
+          "message": "",
+          "coords": [
+            509,
+            360
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_4_11": {
+      "doors": [
+        {
+          "name": "room_4_7",
+          "x": 844,
+          "y": 346,
+          "message": "",
+          "coords": [
+            536,
+            482
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_4_6",
+          "x": 496,
+          "y": 177,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [
+        {
+          "name": "dragonling",
+          "coords": [565,334],
+          "message_alt": "It seems to be guarding the key."
+        }
+      ],
+      "items": [
+        {
+          "name": "key",
+          "coords": [579,419],
+          "message_alt": "This will unlock the door to the boss room."
+        }
+      ]
+    },
+    "room_4_12": {
+      "doors": [
+        {
+          "name": "room_4_10",
+          "x": 739,
+          "y": 467,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": [
+        {
+          "name": "claymore",
+          "coords": [598,466],
+          "message_alt": ""
+        }
+      ]
+    },
+    "room_5_1": {
+      "doors": [
+        {
+          "name": "hallway_5_6",
+          "x": 877,
+          "y": 290,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_5_7",
+          "x": 412,
+          "y": 290,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_5_8",
+          "x": 473,
+          "y": 540,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": [
+        {
+          "name": "spiked_armor",
+          "coords": [656,483],
+          "message_alt": ""
+        }
+      ]
+    },
+    "room_5_2": {
+      "doors": [
+        {
+          "name": "room_1_1",
+          "x": 905,
+          "y": 350,
+          "message": "",
+          "coords": [
+            509,
+            360
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_5_9",
+          "x": 542,
+          "y": 226,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_5_8",
+          "x": 815,
+          "y": 500,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [
+        {
+          "name": "animated_sword",
+          "coords": [633,357],
+          "message_alt": ""
+        }
+      ],
+      "items": []
+    },
+    "room_5_3": {
+      "doors": [
+        {
+          "name": "hallway_5_10",
+          "x": 797,
+          "y": 310,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_5_9",
+          "x": 509,
+          "y": 154,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_1_1",
+          "x": 806,
+          "y": 565,
+          "message": "",
+          "coords": [
+            509,
+            360
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_5_4": {
+      "doors": [
+        {
+          "name": "room_5_5",
+          "x": 712,
+          "y": 307,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_5_10",
+          "x": 556,
+          "y": 483,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_5_5": {
+      "doors": [
+        {
+          "name": "room_4_1",
+          "x": 716,
+          "y": 105,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_5_4",
+          "x": 432,
+          "y": 270,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_1_1",
+          "x": 524,
+          "y": 462,
+          "message": "",
+          "coords": [
+            509,
+            360
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_1_1",
+          "x": 640,
+          "y": 429,
+          "message": "",
+          "coords": [
+            509,
+            360
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "room_boss": {
+      "doors": [
+        {
+          "name": "hallway_3_3",
+          "x": 627,
+          "y": 102,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [
+        {
+          "name": "goblin_king",
+          "coords": [636,417],
+          "message_alt": ""
+        },
+        {
+          "name": "orc",
+          "coords": [803,345],
+          "message_alt": ""
+        },
+        {
+          "name": "orc",
+          "coords": [472,345],
+          "message_alt": ""
+        }
+      ],
+      "items": []
+    }
+  },
+  "hallways": {
+    "hallway_1_1": {
+      "doors": [
+        {
+          "name": "room_1_1",
+          "x": 868,
+          "y": 418,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_1_2",
+          "x": 807,
+          "y": 375,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_1_3",
+          "x": 553,
+          "y": 376,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "4-way_1",
+          "x": 443,
+          "y": 422,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_1_4",
+          "x": 656,
+          "y": 458,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "4-way_1": {
+      "doors": [
+        {
+          "name": "hallway_1_1",
+          "x": 787,
+          "y": 360,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_2_1",
+          "x": 643,
+          "y": 216,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_3_1",
+          "x": 489,
+          "y": 358,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_4_1",
+          "x": 638,
+          "y": 519,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_2_1": {
+      "doors": [
+        {
+          "name": "room_2_1",
+          "x": 607,
+          "y": 174,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "4-way_1",
+          "x": 604,
+          "y": 542,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_2_2": {
+      "doors": [
+        {
+          "name": "room_2_2",
+          "x": 923,
+          "y": 440,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_2_1",
+          "x": 399,
+          "y": 445,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_2_3",
+          "x": 504,
+          "y": 488,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_2_4",
+          "x": 630,
+          "y": 488,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "maze",
+          "x": 750,
+          "y": 488,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_2_3",
+          "x": 864,
+          "y": 488,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_2_3": {
+      "doors": [
+        {
+          "name": "room_2_6",
+          "x": 794,
+          "y": 471,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_2_2",
+          "x": 589,
+          "y": 264,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_2_4": {
+      "doors": [
+        {
+          "name": "hallway_2_4",
+          "x": 831,
+          "y": 386,
+          "message": "",
+          "coords": [
+            463,
+            386
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_2_2",
+          "x": 463,
+          "y": 386,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_3_1": {
+      "doors": [
+        {
+          "name": "4-way_1",
+          "x": 883,
+          "y": 381,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_3_2",
+          "x": 395,
+          "y": 379,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_3_2": {
+      "doors": [
+        {
+          "name": "hallway_3_1",
+          "x": 840,
+          "y": 394,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_3_1",
+          "x": 602,
+          "y": 341,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_3_3",
+          "x": 441,
+          "y": 387,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_3_3": {
+      "doors": [
+        {
+          "name": "hallway_3_2",
+          "x": 777,
+          "y": 219,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_3_4",
+          "x": 520,
+          "y": 218,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_boss",
+          "x": 574,
+          "y": 580,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_3_4": {
+      "doors": [
+        {
+          "name": "hallway_3_3",
+          "x": 826,
+          "y": 280,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_3_2",
+          "x": 825,
+          "y": 434,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_4_10",
+          "x": 720,
+          "y": 379,
+          "message": "",
+          "coords": [
+            856,
+            582
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_3_5": {
+      "doors": [
+        {
+          "name": "room_3_2",
+          "x": 775,
+          "y": 145,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_boss",
+          "x": 601,
+          "y": 641,
+          "message": "",
+          "coords": [
+            627,
+            102
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_4_1": {
+      "doors": [
+        {
+          "name": "room_4_1",
+          "x": 810,
+          "y": 289,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "4-way_4",
+          "x": 455,
+          "y": 286,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_4_3",
+          "x": 625,
+          "y": 467,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_4_2": {
+      "doors": [
+        {
+          "name": "4-way_4",
+          "x": 642,
+          "y": 227,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_4_4",
+          "x": 602,
+          "y": 295,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_4_5",
+          "x": 641,
+          "y": 492,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_5_7",
+          "x": 684,
+          "y": 438,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_4_3": {
+      "doors": [
+        {
+          "name": "room_4_1",
+          "x": 775,
+          "y": 440,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_4_1",
+          "x": 590,
+          "y": 257,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_4_4": {
+      "doors": [
+        {
+          "name": "hallway_4_2",
+          "x": 889,
+          "y": 186,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_4_4",
+          "x": 884,
+          "y": 531,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "maze",
+          "x": 700,
+          "y": 341,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_4_5": {
+      "doors": [
+        {
+          "name": "hallway_4_2",
+          "x": 562,
+          "y": 293,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_4_8",
+          "x": 401,
+          "y": 342,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_4_10",
+          "x": 830,
+          "y": 463,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_4_6": {
+      "doors": [
+        {
+          "name": "room_4_10",
+          "x": 746,
+          "y": 378,
+          "message": "",
+          "coords": [
+            371,
+            508
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_4_9",
+          "x": 564,
+          "y": 191,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_4_11",
+          "x": 568,
+          "y": 545,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_4_7": {
+      "doors": [
+        {
+          "name": "room_4_10",
+          "x": 901,
+          "y": 511,
+          "message": "",
+          "coords": [
+            371,
+            508
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_4_9",
+          "x": 430,
+          "y": 351,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "4-way_4": {
+      "doors": [
+        {
+          "name": "room_4_3",
+          "x": 640,
+          "y": 217,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_4_2",
+          "x": 488,
+          "y": 366,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_4_2",
+          "x": 642,
+          "y": 520,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_4_1",
+          "x": 786,
+          "y": 370,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_5_1": {
+      "doors": [
+        {
+          "name": "room_4_1",
+          "x": 513,
+          "y": 323,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_5_2",
+          "x": 730,
+          "y": 527,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_5_2": {
+      "doors": [
+        {
+          "name": "hallway_5_1",
+          "x": 647,
+          "y": 113,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_1_1",
+          "x": 601,
+          "y": 239,
+          "message": "",
+          "coords": [
+            509,
+            360
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_5_3",
+          "x": 640,
+          "y": 596,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_1_1",
+          "x": 683,
+          "y": 437,
+          "message": "",
+          "coords": [
+            509,
+            360
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_5_3": {
+      "doors": [
+        {
+          "name": "hallway_5_2",
+          "x": 816,
+          "y": 325,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_1_1",
+          "x": 479,
+          "y": 214,
+          "message": "",
+          "coords": [
+            509,
+            360
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_5_4",
+          "x": 424,
+          "y": 450,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_5_4": {
+      "doors": [
+        {
+          "name": "hallway_5_3",
+          "x": 875,
+          "y": 363,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_5_5",
+          "x": 412,
+          "y": 362,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_1_1",
+          "x": 637,
+          "y": 406,
+          "message": "",
+          "coords": [
+            509,
+            360
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_5_5": {
+      "doors": [
+        {
+          "name": "hallway_5_4",
+          "x": 852,
+          "y": 357,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_1_1",
+          "x": 719,
+          "y": 316,
+          "message": "",
+          "coords": [
+            509,
+            360
+          ],
+          "vertical": false
+        },
+        {
+          "name": "hallway_5_6",
+          "x": 416,
+          "y": 358,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_5_8",
+          "x": 568,
+          "y": 399,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_5_6": {
+      "doors": [
+        {
+          "name": "hallway_5_5",
+          "x": 775,
+          "y": 391,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_5_1",
+          "x": 513,
+          "y": 392,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_5_7": {
+      "doors": [
+        {
+          "name": "room_1_1",
+          "x": 848,
+          "y": 410,
+          "message": "",
+          "coords": [
+            509,
+            360
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_5_1",
+          "x": 848,
+          "y": 270,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "hallway_4_2",
+          "x": 412,
+          "y": 408,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_5_8": {
+      "doors": [
+        {
+          "name": "hallway_5_5",
+          "x": 808,
+          "y": 363,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_5_2",
+          "x": 638,
+          "y": 165,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_5_1",
+          "x": 466,
+          "y": 363,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_5_9": {
+      "doors": [
+        {
+          "name": "room_1_1",
+          "x": 752,
+          "y": 221,
+          "message": "",
+          "coords": [
+            509,
+            360
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_5_2",
+          "x": 432,
+          "y": 556,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        },
+        {
+          "name": "room_5_3",
+          "x": 747,
+          "y": 472,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    },
+    "hallway_5_10": {
+      "doors": [
+        {
+          "name": "room_5_4",
+          "x": 903,
+          "y": 338,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": true
+        },
+        {
+          "name": "room_5_3",
+          "x": 430,
+          "y": 498,
+          "message": "",
+          "coords": [
+            0,
+            0
+          ],
+          "vertical": false
+        }
+      ],
+      "enemies": [],
+      "items": []
+    }
+  },
+  "enemies": {
+      "goblin": {
+        "atk": 5,
+        "def": 2,
+        "hp": 10,
+        "message": "A fairly easy enemy to defeat. Always guarding something they think useful.",
+        "gold": 2
+      },
+      "rat": {
+        "atk": 3,
+        "def": 0,
+        "hp": 5,
+        "message": "It's actually just a rat. It will bit your ankles.",
+        "gold": 1
+      },
+      "skeleton": {
+        "atk": 3,
+        "def": 5,
+        "hp": 12,
+        "message": "Death doesn't have to mean you're useless. Contact your local Necromancer today!",
+        "gold": 3
+      },
+      "dragonling": {
+        "atk": 15,
+        "def": 6,
+        "hp": 20,
+        "message": "Smaller than a real dragon, but just as dangerous. It's breath may not be fire, but it sure isn't pleasant.",
+        "gold": 5
+      },
+      "orc": {
+        "atk": 12,
+        "def": 12,
+        "hp": 16,
+        "message": "Orders goblins around, stronger too. Then why is...",
+        "gold": 6
+      },
+      "animated_sword": {
+        "atk": 50,
+        "def": 0,
+        "hp": 10,
+        "message": "A powerful item. Sadly this item is already being used by someone else.",
+        "gold": 20
+      },
+      "goblin_king": {
+        "atk": 20,
+        "def": 15,
+        "hp": 20,
+        "message": "Ah, I see now. Even the toughest orc stands no chance against this beast.",
+        "gold": 25
+      }
+  },
+  "items": {
+      "sword": {
+        "properties": {
+          "atk": 3,
+          "type": "weapon"
+        },
+        "message": "Standard issue, gets the job done."
+      },
+      "scimitar": {
+        "properties":
+          {
+            "atk": 5,
+            "type": "weapon"
+          }
+        ,
+        "message": "A weapon of a strange make. No one really agrees what it should look like, but no disagrees that it works."
+      },
+      "katana": {
+        "properties":
+          {"atk": 5,
+          "def": 3,
+            "type": "weapon"
+          }
+          ,
+        "message": "A finely crafted blade, enhancing attack, and style(defense)."
+      },
+      "claymore": {
+        "properties":
+          {"atk": 8,
+            "type": "weapon"}
+        ,
+        "message": "A massive sword, only wielded by the strongest of heroines."
+      },
+      "chainmail": {
+        "properties":
+          {"def": 3,
+            "type": "armor"}
+        ,
+        "message": "Surprisingly effective."
+      },
+      "plate_mail": {
+        "properties":
+          {"def": 5,
+            "type": "armor"}
+        ,
+        "message": "Who needs mobility when you can tank anything thrown at you?"
+      },
+      "spiked_armor": {
+        "properties":
+          {"def": 8,
+            "atk": 5,
+            "type": "armor"
+          }
+          ,
+        "message": "I feel sorry for the person who helps you put this on."
+      },
+      "ring_of_strength": {
+        "properties":
+          {"atk": 5,
+            "type": "trinket"},
+        "message": "Need more strength? Why not try this!"
+      },
+      "ring_of_defense": {
+        "properties":
+          {"def": 5,
+            "type": "trinket"},
+        "message": "Need more defense? Why not try this!"
+      },
+      "ring_of_vitality": {
+        "properties":
+          {"hp": 5,
+            "type": "trinket"},
+        "message": "Need more health? Why not try this!"
+      },
+      "dragons_blood": {
+        "properties":
+          {"hp": 10,
+            "type": "trinket"},
+        "message": "Eew... This helps you how? Never mind, I don't want to know what you did with it."
+      },
+      "enigmatic_mist": {
+        "properties":
+          {"hp": 20,
+            "type": "trinket"},
+        "message": "Do you understand how this place works now?"
+      },
+      "animated_sword": {
+        "properties":
+          {"atk": 10,
+            "def": 5,
+            "type": "trinket"
+          },
+        "message": "Oh. I guess it works for you now. Nice item."
+      },
+      "key": {
+        "properties":
+          {"max": 1,
+            "type": "item"},
+        "message": "Opens a door."
+      },
+      "coin": {
+        "properties":
+          {"max": 0,
+            "type": "item"},
+        "message": "Would anyone go on an adventure if this wasn't involved?"
+      },
+      "warp_scroll": {
+        "properties":
+          {"max": 3,
+            "type": "item"},
+        "message": "'Instructions: Say 'Help', and you shall be helped.' Well that's not helpful."
+      }
+  }
+}
