@@ -186,6 +186,7 @@ class GameView(arcade.View):
                 self.inventory[3] += self.enemy["gold"]
 
                 if self.selected.name == "goblin_king" and player_hp > 0:  #If the player kills the boss the victory screen is shown
+                    self.music_player.pause()
                     self.window.show_view(EndView(self.inventory[3], True))
 
             for sprite in self.interactables_list_sprite:  #Once interacted with the interacted object is removed from the game
@@ -414,6 +415,7 @@ class EndView(arcade.View):
 
 
 def door_from_json(data: dict) -> Door:
+    #Gathers door data and applies it to an door object
 
     return Door(
         name=data.get("name", "room_4_3.png"),

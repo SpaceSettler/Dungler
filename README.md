@@ -1,30 +1,26 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a very rudimentary example of what the arcade library in python can do. You wonder a maze seeking items to get stronger
+and defeat the enemies. Some of the sections can be very confusing, but the best loot is kept there for those willing ot persevere.
 
-{Provide a description the game that you wrote. Describe how to play your game.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used paint to make most of the images, and had to go into paint3d to make them transparent. The rooms were all made in blockbench.
+I was hoping it would have scaling options so I could make my rooms all the same size, but no luck. PyCharm was used to write all the code
 
-{Describe the programming language that you used and any libraries.}
+Written in python and used the arcade library for game functionality
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Python Academy](https://api.arcade.academy/en/stable/index.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* The game isn't fully finished, but it is functional. I would like to add the rest of the items, as some aren't implemented
+yet. And there can definitely be more polish.
+* I know much of the code is in dire need of refactoring. Some was done, but much more is needed to make it more precise and condensed.
+* A section of the maze where the rooms and hallways would be randomly generated was made, but not added. I would like to finish that.
