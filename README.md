@@ -4,7 +4,7 @@ This is a very rudimentary example of what the arcade library in python can do. 
 and defeat the enemies. Some of the sections can be very confusing, but the best loot is kept there for those willing ot persevere.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=bqv3YbhVn9w)
 
 # Development Environment
 
